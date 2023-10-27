@@ -14,6 +14,8 @@ Heute habe ich mich entschieden, dass ich als Projekt einen Blick in die Verschl
 - [x] Programm schreiben mit dem man ein Text verschlüsseln Kann (Konnte nur int verschlüssen)
 - [ ] Programm schreiben mit dem man ein Text endschlüsseln Kann 
 - [ ] Bugfixes
+
+## 27.10
 Heute konnte ich leider nur ein Intiger verschlusseln. Weil ich nicht genug zeit hatte. ich habe das gefühl, dass ich die aufgabe überschätzt habe. Nächstes mal versuche ich die noch nich gemachte Arbeitspakrt zu Beednden.
 
 - [ ] Sich über Verschluselungsmetoden Informieren
