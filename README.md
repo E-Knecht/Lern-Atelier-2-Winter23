@@ -16,9 +16,16 @@ Heute habe ich mich entschieden, dass ich als Projekt einen Blick in die Verschl
 - [ ] Bugfixes
 Heute konnte ich leider nur ein Intiger verschlusseln. Weil ich nicht genug zeit hatte. ich habe das gefühl, dass ich die aufgabe überschätzt habe. Nächstes mal versuche ich die noch nich gemachte Arbeitspakrt zu Beednden.
 
-## 27.10
+## 3.11
 
-- [ ] Sich über Verschluselungsmetoden Informieren
-- [ ] Programm schreiben mit dem man ein Text verschlüsseln Kann
-- [ ] Programm schreiben mit dem man ein Text endschlüsseln Kann
+- [x] Sich über Verschluselungsmetoden Informieren
+- [x] Programm schreiben mit dem man ein Text verschlüsseln Kann
+- [x] Programm schreiben mit dem man ein Text endschlüsseln Kann
+- [x] Bugfixes
+     Ich habe heute einen Code geschrieben, der einen String mit einem Integer zwischen -3 und 3 verschlüsselt (0 entspricht keiner Verschlüsselung). Nach langer Recherche konnte ich eine Möglichkeit finden, eine mögliche Lösung umzusetzen. Ich habe eine digitale Caesar-Verschlüsselung programmiert.
+## 10.11
+
+- [ ] Projekt wertpapiere weiter besprechen
+- [ ] key für wertpapiere besorgen
+- [ ] key für wertpapiere in den code einfügen
 - [ ] Bugfixes
