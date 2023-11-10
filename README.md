@@ -25,7 +25,14 @@ Heute konnte ich leider nur ein Intiger verschlusseln. Weil ich nicht genug zeit
      Ich habe heute einen Code geschrieben, der einen String mit einem Integer zwischen -3 und 3 verschlüsselt (0 entspricht keiner Verschlüsselung). Nach langer Recherche konnte ich eine Möglichkeit finden, eine mögliche Lösung umzusetzen. Ich habe eine digitale Caesar-Verschlüsselung programmiert.
 ## 10.11
 
-- [ ] Projekt wertpapiere weiter besprechen
-- [ ] key für wertpapiere besorgen
-- [ ] key für wertpapiere in den code einfügen
-- [ ] Bugfixes
+- [x] Projekt wertpapiere weiter besprechen
+- [x] key für wertpapiere besorgen
+- [x] key für wertpapiere in den code einfügen
+- [x] Bugfixes
+Mir wurde heute meine Träume Zerschtört, in dem alles wo ich für 6 Stunden gearbeitet habe, zerstörte wurden. So habe ich von nazu nicht angefangen. Zum glück konnte ich meine erfahrungen benuzen und konnte daduchr relativ schnell aufholen.
+
+ ## 17.11
+ 
+- [ ] Funktionerenden code machen
+- [ ] 2 werpapier inzufügen
+- [ ] bugfixes
