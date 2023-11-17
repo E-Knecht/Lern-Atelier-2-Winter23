@@ -33,6 +33,14 @@ Mir wurde heute meine Träume Zerschtört, in dem alles wo ich für 6 Stunden ge
 
  ## 17.11
  
-- [ ] Funktionerenden code machen
-- [ ] 2 werpapier inzufügen
+- [x] über objekte recherchieren
+- [x] Programm schreiben
+- [x] bugfixes
+  Heute hanbe ich mit objekten gearbeitet. Da c# eiene Objekt orientierte sprache ist, wolte ich Mein repetoir erweitern. Da ich nocht nicht alles verstanden habe, will ixh noch nächstes mal daran arbeit um besser damit klar zu kommen. Nächstesmal will ich ein tik tack Toe spie mithielfen von objekten machen.
+
+## 24.11
+
+- [ ] mögliche Wege echerchieren
+- [ ] pap erstelen
+- [ ] Programm schreiben
 - [ ] bugfixes
