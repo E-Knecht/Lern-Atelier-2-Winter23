@@ -1,0 +1,60 @@
+class GuessingGame
+{
+    private int targetNumber;
+    private bool isGameWon;
+
+    public GuessingGame()
+    {
+        Random random = new Random();
+        targetNumber = random.Next(1, 101);
+        isGameWon = false;
+    }
+
+    public void Play()
+    {
+        Console.WriteLine("Willkommen zum Zahlenraten-Spiel!");
+        Console.WriteLine("Errate die Zahl zwischen 1 und 100.");
+
+        while (!isGameWon)
+        {
+            Console.Write("Dein Tipp: ");
+            string userInput = Console.ReadLine();
+
+            if (int.TryParse(userInput, out int userGuess))
+            {
+                CheckGuess(userGuess);
+            }
+            else
+            {
+                Console.WriteLine("Ungültige Eingabe. Bitte gib eine ganze Zahl ein.");
+            }
+        }
+
+        Console.WriteLine("Herzlichen Glückwunsch! Du hast die Zahl erraten.");
+    }
+
+    private void CheckGuess(int guess)
+    {
+        if (guess == targetNumber)
+        {
+            isGameWon = true;
+        }
+        else if (guess < targetNumber)
+        {
+            Console.WriteLine("Die gesuchte Zahl ist größer. Versuche es erneut.");
+        }
+        else
+        {
+            Console.WriteLine("Die gesuchte Zahl ist kleiner. Versuche es erneut.");
+        }
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        GuessingGame game = new GuessingGame();
+        game.Play();
+    }
+}
