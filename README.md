@@ -63,3 +63,8 @@ Heute Abe ich Meinen neuen Laptop eingerichtet wäent ich auf dem alten Laptop v
 - [x] Input programieren
 - [x] Gewinnen erkenen
 - [x] buxfixes
+Heute habe ich mich dazu entschlossen, ein Tik-Tak-Toe-Spiel als Kurzprojekt zu erstellen. Dank des Internets konnte ich den Code in den Lektionen schreiben, ohne auf größere Probleme zu stoßen. Das Verständnis der Programmiersprache und die Verfügbarkeit von Ressourcen online haben es mir ermöglicht, die Implementierung reibungslos durchzuführen
+
+## 22.12
+- [ ] 1710_Internetzugangsarten (Modul 117)
+- [ ] 1712_WLAN (Modul 117)
