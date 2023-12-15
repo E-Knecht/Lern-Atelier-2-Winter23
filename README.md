@@ -40,7 +40,20 @@ Mir wurde heute meine Träume Zerschtört, in dem alles wo ich für 6 Stunden ge
 
 ## 24.11
 
-- [ ] mögliche Wege echerchieren
-- [ ] pap erstelen
+- [x] mögliche Wege recherchieren
+- [x] pap erstelen
 - [ ] Programm schreiben
 - [ ] bugfixes
+      Leider habe ich komplet überschätzt wie schwer Das ticktacktoe ist eine Aufgabe ist. leider kan ich vorerst nicht weiter an dem projekt arbeiten da ich noch an dem Peojekt der wetpapiere arbeiren muss.
+## 01.12
+- [x] Pap eines objekt erstellen um die daten in eine aeeay zu tun
+- [x]  über mögliche wege recherchieren recherchieren
+- [x]  objekt erstellen
+- [ ]  in graff einfügen
+Heute habe ich An einem Objekt Gearbeitet mit dem man Jason daten in dictumary einfügt leider wired ich night fertig, da die Grafik nicts mit dem datentyp <date only> anfangen kann leider.
+## 08.12
+ - [x] Neuer laptop arbeitbereit machen
+ - [-] bugfix Grafik
+ - [x]dropdownmenü
+ - [ ]inputwerte
+Heute Abe ich Meinen neuen Laptop eingerichtet wäent ich auf dem alten Laptop versucht habe inputwerte, droptownmenü und grafik einzufügen. Leider Hat es nicht rech funktioniert da ich das <date only> problem nicht lösen monte und mit einer faulen i++ umging, da ich so lange am Graf gearbeitet habe wurde ich nicht Fertig mit dem Inputwerten.
