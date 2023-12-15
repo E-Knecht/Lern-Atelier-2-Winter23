@@ -57,3 +57,9 @@ Heute habe ich An einem Objekt Gearbeitet mit dem man Jason daten in dictumary e
  - [x]dropdownmenü
  - [ ]inputwerte
 Heute Abe ich Meinen neuen Laptop eingerichtet wäent ich auf dem alten Laptop versucht habe inputwerte, droptownmenü und grafik einzufügen. Leider Hat es nicht rech funktioniert da ich das <date only> problem nicht lösen monte und mit einer faulen i++ umging, da ich so lange am Graf gearbeitet habe wurde ich nicht Fertig mit dem Inputwerten.
+
+## 15.12
+- [x]über mögliche code recherchieren
+- [x] Input programieren
+- [x] Gewinnen erkenen
+- [x] buxfixes
