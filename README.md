@@ -6,66 +6,70 @@ Arbeiszeit zwischen 20.10-22.12
 
 - [x] 319 weiterarbeiten
 
-- [x] im Bereich von datensicherheit ein Projerkt finden.
+- [x] im Bereich von Datensicherheit ein Projekt finden.
 
-Heute habe ich mich entschieden, dass ich als Projekt einen Blick in die Verschlüsselung werfe, beispielsweise in die Verschlüsselung von Passwörtern und Texten. Heute habe ich jedoch hauptsächlich am Modul 319 gearbeitet, um es bis Montag abzuschließen und zu korrigieren. Nächstes Mal plane ich, ein Programm zu schreiben, mit dem ich Texte verschlüsseln und entschlüsseln kann (56 Wörter)
+Heute habe ich mich entschieden, dass ich als Projekt einen Blick in die Verschlüsselung werfe, beispielsweise in die Verschlüsselung von Passwörtern und Texten. Heute habe ich jedoch hauptsächlich am Modul 319 gearbeitet, um es bis Montag abzuschliessen und zu korrigieren. Nächstes Mal plane ich, ein Programm zu schreiben, mit dem ich Texte verschlüsseln und entschlüsseln kann (56 Wörter)
 
-- [x] Sich über Verschluselungsmetoden Informieren
-- [x] Programm schreiben mit dem man ein Text verschlüsseln Kann (Konnte nur int verschlüssen)
-- [ ] Programm schreiben mit dem man ein Text endschlüsseln Kann 
+- [x] Sich über Verschlüsselungsmethoden Informieren
+- [x] Programm schreiben mit dem man ein Text verschlüsseln Kann (Konnte nur int Verschlüssen)
+- [ ] Programm schreiben mit dem man ein Text Endschlüsseln Kann 
 - [ ] Bugfixes
-Heute konnte ich leider nur ein Intiger verschlusseln. Weil ich nicht genug zeit hatte. ich habe das gefühl, dass ich die aufgabe überschätzt habe. Nächstes mal versuche ich die noch nich gemachte Arbeitspakrt zu Beednden.
+Heute konnte ich leider nur ein Intiger verschlüsseln. Weil ich nicht genug zeit hatte. ich habe das Gefühl, dass ich die Aufgabe überschätzt habe. Nächstes mal versuche ich die noch nicht gemachte Arbeitspaket zu Beenden.
 
 ## 3.11
 
-- [x] Sich über Verschluselungsmetoden Informieren
+- [x] Sich über Verschlüsselungsmethoden Informieren
 - [x] Programm schreiben mit dem man ein Text verschlüsseln Kann
-- [x] Programm schreiben mit dem man ein Text endschlüsseln Kann
+- [x] Programm schreiben mit dem man ein Text Endschlüsseln Kann
 - [x] Bugfixes
      Ich habe heute einen Code geschrieben, der einen String mit einem Integer zwischen -3 und 3 verschlüsselt (0 entspricht keiner Verschlüsselung). Nach langer Recherche konnte ich eine Möglichkeit finden, eine mögliche Lösung umzusetzen. Ich habe eine digitale Caesar-Verschlüsselung programmiert.
 ## 10.11
 
-- [x] Projekt wertpapiere weiter besprechen
-- [x] key für wertpapiere besorgen
-- [x] key für wertpapiere in den code einfügen
+- [x] Projekt Wertpapiere weiter besprechen
+- [x] Key für Wertpapiere besorgen
+- [x] Key für Wertpapiere in den code einfügen
 - [x] Bugfixes
-Mir wurde heute meine Träume Zerschtört, in dem alles wo ich für 6 Stunden gearbeitet habe, zerstörte wurden. So habe ich von nazu nicht angefangen. Zum glück konnte ich meine erfahrungen benuzen und konnte daduchr relativ schnell aufholen.
+Mir wurde heute meine Träume Zerstört, in dem alles wo ich für 6 Stunden gearbeitet habe, zerstörte wurden. So habe ich von nheazu nicht angefangen. Zum Glück konnte ich meine Erfahrungen benutzen und konnte dadurch relativ schnell aufholen.
 
  ## 17.11
  
-- [x] über objekte recherchieren
+- [x] über Objekte recherchieren
 - [x] Programm schreiben
-- [x] bugfixes
-  Heute hanbe ich mit objekten gearbeitet. Da c# eiene Objekt orientierte sprache ist, wolte ich Mein repetoir erweitern. Da ich nocht nicht alles verstanden habe, will ixh noch nächstes mal daran arbeit um besser damit klar zu kommen. Nächstesmal will ich ein tik tack Toe spie mithielfen von objekten machen.
+- [x] Bugfixes
+  Heute habe ich mit Objekten gearbeitet. Da c# ein Objekt orientierte Sprache ist, wollte ich mein repetoir erweitern. Da ich noch nicht alles verstanden habe, will ich noch nächstes Mal daran arbeit, um besser damit klarzukommen. Nächstes Mal will ich ein tik tack Toe Spiel mithelfen von Objekten machen.
 
 ## 24.11
 
 - [x] mögliche Wege recherchieren
-- [x] pap erstelen
+- [x] pap erstellen
 - [ ] Programm schreiben
-- [ ] bugfixes
-      Leider habe ich komplet überschätzt wie schwer Das ticktacktoe ist eine Aufgabe ist. leider kan ich vorerst nicht weiter an dem projekt arbeiten da ich noch an dem Peojekt der wetpapiere arbeiren muss.
+- [ ] Bugfixes
+      Leider habe ich Komplet, überschätzt wie schwer das ticktacktoe ist eine Aufgabe ist. Leider kann ich vorerst nicht weiter an dem Projekt arbeiten, da ich noch an dem Projekt der Wertpapiere arbeiten muss.
 ## 01.12
-- [x] Pap eines objekt erstellen um die daten in eine aeeay zu tun
-- [x]  über mögliche wege recherchieren recherchieren
-- [x]  objekt erstellen
-- [ ]  in graff einfügen
-Heute habe ich An einem Objekt Gearbeitet mit dem man Jason daten in dictumary einfügt leider wired ich night fertig, da die Grafik nicts mit dem datentyp <date only> anfangen kann leider.
+- [x] Pap eines Objekt erstellen, um die Daten in eine Array zu tun
+- [x]  über mögliche Wege recherchieren
+- [x]  Objekt erstellen
+- [ ]  in Graph einfügen
+Heute habe ich an einem Objekt gearbeitet, mit dem man Jason Daten in dictionary einfügt, bedauerlicherweise werde ich nicht fertig, da die Grafik nichts mit dem Datentyp <date only> anfangen kann.
 ## 08.12
- - [x] Neuer laptop arbeitbereit machen
- - [-] bugfix Grafik
- - [x]dropdownmenü
- - [ ]inputwerte
-Heute Abe ich Meinen neuen Laptop eingerichtet wäent ich auf dem alten Laptop versucht habe inputwerte, droptownmenü und grafik einzufügen. Leider Hat es nicht rech funktioniert da ich das <date only> problem nicht lösen monte und mit einer faulen i++ umging, da ich so lange am Graf gearbeitet habe wurde ich nicht Fertig mit dem Inputwerten.
+ - [x] Neuer Laptop arbeitsbereit machen
+ - [-] Bugfix Grafik
+ - [x]Dropdownmenü
+ - [ ]Input-werte
+Heute habe ich meinen neuen Laptop eingerichtet, wähnt ich auf dem alten Laptop versucht habe imputierte, Dropdownmenüund Grafik einzufügen. Bedauerlicherweise hat es nicht recht funktioniert, da ich das <date only> Problem nicht lösen konnte und mit einer faulen i++ umging, da ich so lange am Graf gearbeitet habe, wurde ich nicht fertig mit dem Input werten.
 
 ## 15.12
-- [x]über mögliche code recherchieren
-- [x] Input programieren
-- [x] Gewinnen erkenen
-- [x] buxfixes
+- [x]über mögliche Code recherchieren
+- [x] Input programmieren für das Tik-Tak-Toe-Spiel
+- [x] Gewinnen erkennen
+- [x] Bugfixes
       
-Heute habe ich mich dazu entschlossen, ein Tik-Tak-Toe-Spiel als Kurzprojekt zu erstellen. Dank des Internets konnte ich den Code in den Lektionen schreiben, ohne auf größere Probleme zu stoßen. Das Verständnis der Programmiersprache und die Verfügbarkeit von Ressourcen online haben es mir ermöglicht, die Implementierung reibungslos durchzuführen
+Heute habe ich mich dazu entschlossen, ein Tik-Tak-Toe-Spiel als Kurzprojekt zu erstellen. Dank des Internets konnte ich den Code in den Lektionen schreiben, ohne auf grössere Probleme zu stossen. Das Verständnis der Programmiersprache und die Verfügbarkeit von Ressourcen online haben es mir ermöglicht, die Implementierung reibungslos durchzuführen
 
 ## 22.12
-- [ ] 1710_Internetzugangsarten (Modul 117)
-- [ ] 1712_WLAN (Modul 117)
+- [ ] Arbeite an 1710_Internetzugangsarten für das Modul 117 (moodel)
+- [ ] Arbeite an  1712_WLAN für das Modul 117 (moodel)
+
+
+
+
