@@ -67,9 +67,16 @@ Heute habe ich meinen neuen Laptop eingerichtet, wähnt ich auf dem alten Laptop
 Heute habe ich mich dazu entschlossen, ein Tik-Tak-Toe-Spiel als Kurzprojekt zu erstellen. Dank des Internets konnte ich den Code in den Lektionen schreiben, ohne auf grössere Probleme zu stossen. Das Verständnis der Programmiersprache und die Verfügbarkeit von Ressourcen online haben es mir ermöglicht, die Implementierung reibungslos durchzuführen
 
 ## 22.12
-- [ ] Arbeite an 1710_Internetzugangsarten für das Modul 117 (moodel)
+- [x] Arbeite an 1710_Internetzugangsarten für das Modul 117 (moodel)
 - [ ] Arbeite an  1712_WLAN für das Modul 117 (moodel)
+      Heute habe ich nur einen auftrag gemacht da ich Krank bin. Obwohl ich  mehr wollte machen konnte ivhh nur 1710 beenden. un mit 1712 anfangen
 
 
+## Metakognitive
+Zuerst habe ich versucht, in die Welt der Verschlüsslung einzutreten. Leider hatte ich das Fachwissen nicht und konnte nur eine Caesar Verschlüsselung machen.
+Als Nächstes arbeitete ich an den Wertpapieren, die ich als Programmierprojekt als Thema hatte, bei dem ich versucht habe, mit Objekte zu arbeiten. Da ich noch nie mit Objekt gearbeitet habe, brauchte ich viel Zeit biss es funktional war. Zuletzt habe ich noch an Modul 117 gearbeitet, da ich dort im Rückstand bin.
 
+Leider habe ich mein ziel für diess Atelie nicht ereicht, da manchmal das README.md den chnge nicht commited habe und sie manchmal sehr ungenau wahren.
 
+Was mir rückblickend aber auffiel war wie oft ich an eienem anderen tehma gearbeitet habe, da ich nie ein Projekt gemacht habe, mit dem ich 5-6 Wochen arbeiten konnte.
+Demensprechent ist mein nächstes ziel, dass ich ein längeres thema wähle und ich meine Planung genauer mache.
