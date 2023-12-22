@@ -74,9 +74,9 @@ Heute habe ich mich dazu entschlossen, ein Tik-Tak-Toe-Spiel als Kurzprojekt zu 
 
 ## Metakognitive
 Zuerst habe ich versucht, in die Welt der Verschlüsslung einzutreten. Leider hatte ich das Fachwissen nicht und konnte nur eine Caesar Verschlüsselung machen.
-Als Nächstes arbeitete ich an den Wertpapieren, die ich als Programmierprojekt als Thema hatte, bei dem ich versucht habe, mit Objekte zu arbeiten. Da ich noch nie mit Objekt gearbeitet habe, brauchte ich viel Zeit biss es funktional war. Zuletzt habe ich noch an Modul 117 gearbeitet, da ich dort im Rückstand bin.
+Als Nächstes arbeitete ich an den Wertpapieren, die ich als Programmierprojekt als Thema hatte, bei dem ich versucht habe, mit Objekte zu arbeiten. Da ich noch nie mit Objekt gearbeitet habe, brauchte ich viel Zeit bis es funktional war und brauchte darum einen gazen Tag um Objekte zu verstehen. Als Nächste Projekt programierte ich ein Tik Tak Toe da ich etwas nicht so schweres wolte mache. Zuletzt habe ich noch an Modul 117 gearbeitet, da ich dort im Rückstand bin.
 
-Leider habe ich mein ziel für diess Atelie nicht ereicht, da manchmal das README.md den chnge nicht commited habe und sie manchmal sehr ungenau wahren.
+Leider habe ich mein Ziel für diess Atelie nicht ereicht, da manchmal das README.md den chnge nicht commited habe und sie manchmal sehr ungenau wahren.
 
-Was mir rückblickend aber auffiel war wie oft ich an eienem anderen tehma gearbeitet habe, da ich nie ein Projekt gemacht habe, mit dem ich 5-6 Wochen arbeiten konnte.
+Was mir rückblickend aber auffiel war wie oft ich an eienem anderen Tehma gearbeitet habe, da ich nie ein Projekt gemacht habe, mit dem ich 5-6 Wochen arbeiten konnte.
 Demensprechent ist mein nächstes ziel, dass ich ein längeres thema wähle und ich meine Planung genauer mache.
